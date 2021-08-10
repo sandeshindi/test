@@ -1,4 +1,8 @@
 main
 main 1
 main 2
+<<<<<<< HEAD
 main 3
+=======
+Branch 1 edited 1
+>>>>>>> Branch 1 edit commit
